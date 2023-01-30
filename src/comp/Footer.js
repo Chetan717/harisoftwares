@@ -65,7 +65,7 @@ export default function Footer() {
    
     <img data-aos="zoom-in-right" className="h-[200px] relative" src={haris}></img>
      
-    <label data-aos="zoom-in-right"  class="inline-block absolute text-gray-800 text-sm text-center sm:text-base mb-12">Hari Software solutions<br/>+917387427755<br/>Sangmaner,Ahmednagar</label>
+    <label data-aos="zoom-in-right"  class="inline-block absolute text-gray-800 text-sm text-center sm:text-base lg:ml-[200px] mb-12">Hari Software solutions<br/>+917387427755<br/>Sangmaner,Ahmednagar</label>
     </div>
 
     <div class="text-gray-400 text-sm text-center py-">© 2021 - Present . All rights reserved.</div>
