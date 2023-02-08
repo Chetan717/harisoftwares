@@ -22,7 +22,7 @@ export default function Faq() {
         </div>
 
         <div>
-          <div data-aos="zoom-in-up" class=" md:text-lg font-bold text-center sm:text-left">Gp solutions</div>
+          <div data-aos="zoom-in-up" class=" md:text-lg font-bold text-center sm:text-left">GV solutions</div>
           <p class="text-gray-500 text-sm md:text-base text-center sm:text-left"></p>
         </div>
       </div>
@@ -48,6 +48,38 @@ export default function Faq() {
         
         </div>
       </div>
+      
+      <div data-aos="zoom-in-up" class="flex flex-col sm:flex-col items-center gap-2 md:gap-4">
+        <div class="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg">
+          <img src="https://png.pngtree.com/png-vector/20191129/ourmid/pngtree-fast-delivery-icon-delivery-icon-png-image_2047531.jpg" loading="lazy" alt="Photo by Ayo Ogunseinde" class="w-full h-full object-cover object-center" />
+        </div>
+
+        <div>
+          <div data-aos="zoom-in-up" class=" md:text-lg font-bold text-center sm:text-left">Smash transport Pune</div>
+        
+        </div>
+      </div>
+      <div data-aos="zoom-in-up" class="flex flex-col sm:flex-col items-center gap-2 md:gap-4">
+        <div class="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMITYJLrNXqvx8xu2EuCuOW3TcRsLigD_OA&usqp=CAU" loading="lazy" alt="Photo by Ayo Ogunseinde" class="w-full h-full object-cover object-center" />
+        </div>
+
+        <div>
+          <div data-aos="zoom-in-up" class=" md:text-lg font-bold text-center sm:text-left">Vetrina Nutritions</div>
+        
+        </div>
+      </div>   <div data-aos="zoom-in-up" class="flex flex-col sm:flex-col items-center gap-2 md:gap-4">
+        <div class="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg">
+          <img src="https://thumbs.dreamstime.com/b/hospital-logo-icon-hospital-logo-icon-135146804.jpg" loading="lazy" alt="Photo by Ayo Ogunseinde" class="w-full h-full object-cover object-center" />
+        </div>
+
+        <div>
+          <div data-aos="zoom-in-up" class=" md:text-lg font-bold text-center sm:text-left">Kale Daignosis Clinic</div>
+        
+        </div>
+      </div>
+
+    
     
 
       
